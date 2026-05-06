@@ -5,7 +5,7 @@ dotenv.config();
 
 import receiptRoutes from "../routes/receipt.routes";
 
-
+// https://reciepts-pareser.vercel.app/
 const app = express();
 
 app.use(cors());
