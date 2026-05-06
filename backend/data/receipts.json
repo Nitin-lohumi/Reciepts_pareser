@@ -1,0 +1,179 @@
+[
+  {
+    "id": 1778045900470,
+    "isLikelyReceipt": false,
+    "confidence": 0,
+    "merchant": "",
+    "date": "",
+    "lineItems": [],
+    "total": 0,
+    "warnings": [
+      "The text does not appear to contain any receipt-like information, such as prices, grocery items, or merchant-like text."
+    ]
+  },
+  {
+    "id": 1778046446201,
+    "isLikelyReceipt": true,
+    "confidence": 80,
+    "merchant": "COMPANY NAME",
+    "date": "",
+    "lineItems": [
+      {
+        "name": "Orange Juice",
+        "amount": 0
+      },
+      {
+        "name": "Ropes beet",
+        "amount": 0
+      },
+      {
+        "name": "Tomato Bio",
+        "amount": 0
+      },
+      {
+        "name": "Best Sis",
+        "amount": 0
+      },
+      {
+        "name": "Grion fi",
+        "amount": 0
+      },
+      {
+        "name": "Cheese He",
+        "amount": 0
+      }
+    ],
+    "total": 29.69,
+    "warnings": [
+      "Prices for individual items not found in OCR text",
+      "Some item names appear to be incomplete or corrupted"
+    ]
+  },
+  {
+    "id": 1778046547579,
+    "isLikelyReceipt": true,
+    "confidence": 80,
+    "merchant": "COMPANY NAME",
+    "date": "",
+    "lineItems": [
+      {
+        "name": "Orange Juice",
+        "amount": 0
+      },
+      {
+        "name": "Ropes beet",
+        "amount": 0
+      },
+      {
+        "name": "Tomato Bio",
+        "amount": 0
+      },
+      {
+        "name": "Best Sis",
+        "amount": 0
+      },
+      {
+        "name": "Grion fi",
+        "amount": 0
+      },
+      {
+        "name": "Cheese He",
+        "amount": 0
+      }
+    ],
+    "total": 29.69,
+    "warnings": [
+      "Prices for individual items not found in OCR text",
+      "Some item names appear to be incomplete or corrupted"
+    ]
+  },
+  {
+    "id": 1778046571330,
+    "isLikelyReceipt": true,
+    "confidence": 80,
+    "merchant": "COMPANY NAME",
+    "date": "",
+    "lineItems": [
+      {
+        "name": "Orange Juice",
+        "amount": 0
+      },
+      {
+        "name": "Ropes beet",
+        "amount": 0
+      },
+      {
+        "name": "Tomato Bio",
+        "amount": 0
+      },
+      {
+        "name": "Best Sis",
+        "amount": 0
+      },
+      {
+        "name": "Grion fi",
+        "amount": 0
+      },
+      {
+        "name": "Cheese He",
+        "amount": 0
+      }
+    ],
+    "total": 29.69,
+    "warnings": [
+      "Prices for individual items not found in OCR text",
+      "Some item names appear to be incomplete or corrupted"
+    ]
+  },
+  {
+    "id": 1778046685356,
+    "isLikelyReceipt": true,
+    "confidence": 80,
+    "merchant": "FISH & FRY",
+    "date": "01/01/2020",
+    "lineItems": [],
+    "total": 3869.6,
+    "warnings": [
+      "Incomplete or missing line items",
+      "Inconsistent currency symbols (€ and £) in TOTAL"
+    ]
+  },
+  {
+    "id": 1778047047289,
+    "isLikelyReceipt": true,
+    "confidence": 80,
+    "merchant": "COMPANY NAME",
+    "date": "",
+    "lineItems": [
+      {
+        "name": "Orange Juice",
+        "amount": 0
+      },
+      {
+        "name": "Ropes beet",
+        "amount": 0
+      },
+      {
+        "name": "Tomato Bio",
+        "amount": 0
+      },
+      {
+        "name": "Best Sis",
+        "amount": 0
+      },
+      {
+        "name": "Grion fi",
+        "amount": 0
+      },
+      {
+        "name": "Cheese He",
+        "amount": 0
+      }
+    ],
+    "total": 29.69,
+    "warnings": [
+      "Prices for individual items not found",
+      "Some item names appear to be incomplete or corrupted"
+    ]
+  }
+]
