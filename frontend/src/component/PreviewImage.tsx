@@ -50,7 +50,7 @@ function PreviewImage({ selectedImage, setSelectedImage }: PreviewImageProps) {
       const formData = new FormData();
       formData.append("receipt", selectedImage);
 
-      const res = await fetch("http://localhost:5000/api/receipts/parse", {
+      const res = await fetch("https://reciepts-pareser-3.onrender.com/api/receipts/parse", {
         method: "POST",
         body: formData,
       });

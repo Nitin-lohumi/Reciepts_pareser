@@ -116,7 +116,7 @@ ${new Date().toLocaleString()}
     try {
       setIsSaving(true);
 
-      const res = await fetch("http://localhost:5000/api/receipts/save", {
+      const res = await fetch("https://reciepts-pareser-3.onrender.com/api/receipts/save", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
