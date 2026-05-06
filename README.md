@@ -179,7 +179,6 @@ I used lightweight local JSON persistence to keep the project focused on the cor
 
 I used:
 - Groq (`llama-3.3-70b-versatile`) for converting noisy OCR text into structured receipt JSON.
-- ChatGPT for implementation planning, prompt iteration, UI structuring, and refining edge cases in extraction logic.
 - AI assistance for improving warning generation and confidence handling.
 
 I intentionally wrote the backend API flow, frontend state management, correction UX, and persistence logic manually.
